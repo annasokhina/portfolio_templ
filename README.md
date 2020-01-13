@@ -1,3 +1,3 @@
-# portfolio_template_bootstrap
+# Freelancer CV template on Bootstrap
 
-<a href="https://sokhann.github.io/freelance_cv_bootstrap/"><h3>View</h3></a>
+<a target="_blank" href="https://sokhann.github.io/freelance_cv_bootstrap/"><h3>View</h3></a>
